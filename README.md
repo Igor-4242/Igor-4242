@@ -16,7 +16,7 @@ TODO:
 📫 Reach me at [igorboiko4242@gmail.com](igorboiko4242@gmail.com)<br>
 📄 Check my website [igorboikothedev.com](www.igorboikothedev.com)
 
-# 🌐 Socials:
+# 🌎 Socials:
 
 [![MyWebsite](https://img.shields.io/badge/My-Website-gray.svg?logo=Circle&logoColor=white)](www.igorboikothedev.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/igor-boiko🤝💻-538524332) 
