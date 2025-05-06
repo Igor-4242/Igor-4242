@@ -5,7 +5,7 @@
 
 
 ## 🌐 Contact:
-- [![website](https://igorrust.xyz)](https://igorrust.xyz)
+- [![website](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](https://igorrust.xyz)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/igor-boiko-538524332)
 - [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:igorboiko4242@gmail.com) 
 
